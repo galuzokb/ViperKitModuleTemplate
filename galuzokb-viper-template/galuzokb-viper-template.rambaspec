@@ -17,6 +17,6 @@ code_files:
 - {name: Router/Router.swift, path: Code/Router/router.swift.liquid}
 - {name: Router/RouterInput.swift, path: Code/Router/routerInput.swift.liquid}
 
-- {name: View/ViewController.swift, path: Code/View/viwecontroller.swift.liquid}
+- {name: View/ViewController.swift, path: Code/View/viewcontroller.swift.liquid}
 - {name: View/ViewIO.swift, path: Code/View/viewIO.swift.liquid}
 

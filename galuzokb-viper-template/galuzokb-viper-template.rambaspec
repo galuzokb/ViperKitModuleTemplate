@@ -1,0 +1,22 @@
+# Template information section
+name: galuzokb-viper-template
+summary: ViperKit module template
+author: Kirill Galuzo
+version: 1.0.0
+license: MIT
+
+code_files:
+- {name: Assembly/Assembly.swift, path: Code/Assembly/assembly.swift.liquid}
+
+- {name: Interactor/Interactor.swift, path: Code/Interactor/interactor.swift.liquid}
+- {name: Interactor/InteractorIO.swift, path: Code/Interactor/interactorIO.swift.liquid}
+
+- {name: Presenter/Presenter.swift, path: Code/Presenter/presenter.swift.liquid}
+- {name: Presenter/ModuleInput.swift, path: Code/Presenter/moduleinput.swift.liquid}
+
+- {name: Router/Router.swift, path: Code/Router/router.swift.liquid}
+- {name: Router/RouterInput.swift, path: Code/Router/routerInput.swift.liquid}
+
+- {name: View/ViewController.swift, path: Code/View/viwecontroller.swift.liquid}
+- {name: View/ViewIO.swift, path: Code/View/viewIO.swift.liquid}
+
